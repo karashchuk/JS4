@@ -19,6 +19,7 @@ ul li{
 	border: 1px solid gray;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+    cursor: pointer;
 }
 li.active{
     background-color: azure;
