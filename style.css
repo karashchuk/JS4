@@ -28,7 +28,7 @@ li.active{
 #menu{
     border: none;
     padding: 0px;
-	margin: 10px 1px 0px 0px;
+	margin: 10px 1px 0px 10px;
     height: 25px;
     width: 624px;
 }
@@ -43,5 +43,10 @@ li.active{
     border: 1px solid gray;
     background-color: azure;
     display: none;
+    margin-left: 11px;
     
+}
+p{
+    text-indent: 20px;
+    text-align: justify;
 }
