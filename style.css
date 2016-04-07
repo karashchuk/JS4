@@ -47,6 +47,9 @@ li.active{
     margin-left: 11px;
     
 }
+div.active{
+    display: block;
+}
 p{
     text-indent: 20px;
     text-align: justify;
